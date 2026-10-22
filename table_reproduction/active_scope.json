@@ -1,0 +1,6 @@
+{
+  "problems": ["LZG01", "LZG02", "LZG03", "LZG04"],
+  "reason": "User removed all YLLF problems on 2026-10-13 to obtain results sooner",
+  "expected_runs": 1920,
+  "expected_cells": 64
+}
